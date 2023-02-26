@@ -1,0 +1,22 @@
+total 92K
+drwxr-xr-x. 15 user user 4.0K Apr 27 00:30 .
+drwxr-xr-x.  1 root root   18 Nov 10  2019 ..
+drwxr-xr-x.  3 user user 4.0K Feb  1 09:05 .astropy
+-rw-r--r--.  1 user user   17 Feb  1 18:48 .bachrc
+-rw-------.  1 user user  11K Apr 27 00:04 .bash_history
+drwxr-xr-x.  7 user user 4.0K Mar 29 20:28 .cache
+drwxr-xr-x.  3 user user 4.0K Jan 15 01:02 .config
+drwx------.  2 user user 4.0K Jan 25 18:59 .emacs.d
+-rw-r--r--.  1 user user   63 Jan 25 20:13 .gitconfig
+drwxr-xr-x.  2 user user 4.0K Apr 27 00:21 .ipynb_checkpoints
+drwxr-xr-x.  5 user user 4.0K Jan 11 18:08 .ipython
+drwxr-xr-x.  3 user user 4.0K Mar 29 12:10 .jupyter
+drwx------.  3 user user 4.0K Jan 11 18:07 .local
+drwxr-xr-x.  2 user user 4.0K Jan 25 20:29 .ssh
+-rw-------.  1 user user 8.4K Mar 21 05:36 .viminfo
+-rw-r--r--.  1 user user  179 Feb 11 09:04 .wget-hsts
+drwxr-xr-x.  3 user user 4.0K Feb 18 15:05 assignment2_p4
+drwxr-xr-x.  3 user user 4.0K Jan 29 06:28 lab3.2
+-rw-r--r--.  1 user user    0 Apr 27 00:30 listing.short
+drwxrwxr-x.  9 user user 4.0K Apr 27 00:20 phys248
+drwxr-xr-x.  8 user user 4.0K Apr 12 17:07 phys248-course-21
